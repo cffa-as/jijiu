@@ -1,0 +1,9 @@
+{
+  "name": "Guardian - 守护者",
+  "description": "离线家庭应急自救手册与工具箱。提供CPR、止血等标准化急救流程，内置求救信号、物资管理与家庭逃生预案功能。",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
